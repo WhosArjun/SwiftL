@@ -24,3 +24,11 @@ if "Vandad" == myName {
     "An uncommon way of doing this"
 }
 
+//2 conditionals
+if myName == "Vandad" && myAge == 30{
+    "Name is Vandad and age is 30"
+} else if myAge == 22 {
+    "I only guessed the age right"
+} else {
+    "I dont know what I'm doing"
+}
