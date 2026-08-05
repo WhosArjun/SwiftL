@@ -26,3 +26,7 @@ type(of: unaryPostFix)
 /// 3. binary infix
 let result = 1 + 2
 let names = "Foo" + " " + "Bar"
+
+let age = 30
+let message = age >= 18 ? "You are an adult" : "You are a child"
+
