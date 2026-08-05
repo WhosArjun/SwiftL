@@ -32,3 +32,12 @@ if myName == "Vandad" && myAge == 30{
 } else {
     "I dont know what I'm doing"
 }
+
+//Or statement conditional
+if myAge == 20 || myName = "Foo" {
+    "Either age is 20, name is foo or both"
+} else if myName == "Vandad" || myAge == 22 {
+    "It's too late to get in this clause"
+} else {
+    "Hmmmm, that didn't work so well"
+}
